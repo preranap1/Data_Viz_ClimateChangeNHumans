@@ -1,0 +1,72 @@
+---
+output: html_document
+---
+<div style="margin-bottom:50px;"></div>
+
+# References  
+<div style="margin-bottom:50px;"></div>
+
+  1. 5 Characteristics All Excellent Data Visualization Should Have:
+     https://ecmapping.com/2016/05/17/5-characteristics-all-excellent-data-visualization-should-have/
+
+<div style="margin-bottom:15px;"> </div>
+
+  2. 25 Tips to Instantly Improve Your Data Visualization Design: 
+     https://www.columnfivemedia.com/25-tips-to-upgrade-your-data-visualization-design
+
+<div style="margin-bottom:15px;"> </div>
+     
+  3. Harvard Business Review, The Three Elements of Successful Data Visualizations: 
+     https://hbr.org/2013/04/the-three-elements-of-successf
+
+<div style="margin-bottom:15px;"> </div>
+     
+  4. Harvard Business Review, Visualizations That Really Work: 
+     https://hbr.org/2016/06/visualizations-that-really-work?referral=03759&cm_vc=rr_item_page.bottom
+
+<div style="margin-bottom:15px;"> </div>
+     
+  5. Harvard Business Review, The Quick and Dirty on Data Visualization:
+     https://hbr.org/2014/04/the-quick-and-dirty-on-data-visualization?referral=03759&cm_vc=rr_item_page.bottom
+
+<div style="margin-bottom:15px;"> </div>
+     
+  6. What makes a good visualization?
+     https://www.e-nor.com/blog/data-visualization/makes-good-visualization
+
+<div style="margin-bottom:15px;"> </div>
+     
+  7. What Makes for Great Data Visualization and Why?
+     https://www.datalabsagency.com/2015/05/21/what-makes-for-great-data-visualization/
+
+<div style="margin-bottom:15px;"> </div>
+     
+  8. Handbook of Data Visualization:
+     http://haralick.org/DV/Handbook_of_Data_Visualization.pdf
+
+<div style="margin-bottom:15px;"> </div>
+  
+  9. New Thinking on, and with, Data Visualization:
+     https://arxiv.org/pdf/1805.11300.pdf
+
+<div style="margin-bottom:15px;"> </div>
+     
+  10. 10 Questions to ask when creating a visualization:
+      http://10qviz.org/
+
+<div style="margin-bottom:15px;"> </div>
+      
+  11. Effective Visualization of Multi-Dimensional Data - A Hands-on Approach:
+      https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8
+
+<div style="margin-bottom:15px;"> </div>
+  12. How To Use Color To Prove Your Point, From A Data Viz Expert:
+      https://www.fastcompany.com/3062182/how-to-use-color-to-prove-your-point-from-a-data-viz-expert
+  
+  
+  
+  
+  
+  
+     
+     

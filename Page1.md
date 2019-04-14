@@ -3,7 +3,6 @@ Author: Prerana Patil
 Title: Framework for Effective Visualizations
 ---
 
-<div style="margin-bottom:50px;"></div>
 # Introduction
 
 In this information age, descriptive analytics and presentation is one of the main componenets for success of businesses. More and more businesses are now moving towards presenting data in a way that is clear and drives a point. Hence, creating smart visualizations is no longer a 'nice-to-have' skill but a 'must-have' skill for managers.

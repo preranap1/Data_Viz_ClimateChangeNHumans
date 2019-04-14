@@ -3,7 +3,6 @@ Author: Prerana Patil
 Title: Evaluation of Visualizations on Climate Change
 ---
 
-<div id="Visualizations" style="margin-bottom:50px;"></div>
 # Evaluation Criteria
 
 Visualizations are evaluated on a scale of 1 to 5. 
@@ -20,7 +19,7 @@ Visualizations are evaluated on a scale of 1 to 5.
 
 _NOTE: Visualizations 1 and 5 are interactive. Including an image here will not do justice to them. Hence, links to these visualizations have been provided._
 
-<div style="margin-bottom:50px;"></div>
+*** 
 
 **Visualization 1**
 

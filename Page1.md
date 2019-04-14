@@ -80,7 +80,7 @@ It is also important to understand why the visualization is being created. Desig
 
 <div style="margin-bottom:50px;"></div>
 
-### [Evaluation of Five Visualizations](Visualizations.html)
+### [Evaluation of Five Visualizations](/Users/preranapatil/Documents/GitHub/Data_Viz_ClimateChangeNHumans/Visualizations.md)
 
 <div style="margin-bottom:50px;"></div>
 ***

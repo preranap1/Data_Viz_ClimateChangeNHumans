@@ -1,9 +1,10 @@
 ---
-output: html_document
+Author: Prerana Patil
+Title: Evaluation of Visualizations on Climate Change
 ---
 
 <div id="Visualizations" style="margin-bottom:50px;"></div>
-# Analysis of Visualizations
+# Evaluation Criteria
 
 Visualizations are evaluated on a scale of 1 to 5. 
 

@@ -42,7 +42,7 @@ The bloomberg visualization does well in telling a story. The engaging content a
 
 **Visualization 2**
 
-![Contributors to Global Warming over the Past 50-65 Years](/Users/preranapatil/Documents/GitHub/Data_Viz_ClimateChangeNHumans/Images/Visual3.jpg)
+![Contributors to Global Warming over the Past 50-65 Years](https://github.com/preranap1/Data_Viz_ClimateChangeNHumans/blob/master/Images/Visual3.jpg)
 
 [Source](https://skepticalscience.com/graphics.php?g=57)
 

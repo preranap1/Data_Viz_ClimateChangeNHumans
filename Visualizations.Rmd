@@ -62,7 +62,7 @@ The story is missing from this visual. The graph as a standalone element is unab
 
 **Visualization 3**
 
-![Volcanic Eruptions vs Temprature](/Users/preranapatil/Documents/GitHub/Data_Viz_ClimateChangeNHumans//Images/Visual5.png)
+![Volcanic Eruptions vs Temprature](https://github.com/preranap1/Data_Viz_ClimateChangeNHumans/blob/master/Images/Visual5.png)
 
 [Source](https://earthobservatory.nasa.gov/features/Aerosols/page3.php)
 
@@ -81,7 +81,7 @@ This visual is able to tell a story effectively. It clearly explains the occurra
 
 **Visualization 4**
 
-![Impacts to Regional Climate Change](/Users/preranapatil/Documents/GitHub/Data_Viz_ClimateChangeNHumans//Images/Visual4.jpg)
+![Impacts to Regional Climate Change](https://github.com/preranap1/Data_Viz_ClimateChangeNHumans/blob/master/Images/Visual4.jpg)
 
 [Source](https://newscenter.lbl.gov/2016/01/20/assessing-the-impact-of-human-induced-climate-change/)
 

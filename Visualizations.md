@@ -15,7 +15,7 @@ Visualizations are evaluated on a scale of 1 to 5.
 
 4 - Some ambiguity but covers most of the requirements listed in the framework
 
-5 - Visualization fulfills all requirements of a particular criteria listed in the framework
+5 - Visualization fulfills all requirements of particular criteria listed in the framework
 
 _NOTE: Visualizations 1 and 5 are interactive. Including an image here will not do justice to them. Hence, links to these visualizations have been provided._
 
@@ -35,7 +35,7 @@ _Sets up a clear design framework_ | 5
 
 **Overall Rating: 5**
 
-The bloomberg visualization does well in telling a story. The engaging content and narrative makes the visualization memorable to the reader. It is interactive and is broken down in a way that keeps the reader interested. The audience of this visual would be the readers of Bloomberg Businessweek. Considering that they could be from different walks of life, the creators of the visualization have done a good job to explain concepts using simple words. We do not see many jargons. Short and precise copy over each graph explains what is happening perfectly. Furthermore, This visualization is data driven. Information about the data can be found in the explanation that follows the graphs. It aims to answer some questions and does a very good job at providing convincing arguments. The designer follows design principles which makes the end product (the visualization) consistent in terms of design. Visual Hierarchy is maintained. The reader is first drawn to the question which is clearly answered by the graphs that follows. Interactivity in the graph lines further enhance user experience. Captions and labels are clearly mentioned and do not interfere with the information that is being presented. Labeling is consistent across all graphs. Clever use of colors help differentiate between different factors.
+The Bloomberg visualization does well in telling a story. The engaging content and narrative make the visualization memorable to the reader. It is interactive and is broken down in a way that keeps the reader interested. The audience of this visual would be the readers of Bloomberg Businessweek. Considering that they could be from different walks of life, the creators of the visualization have done a good job to explain concepts using simple words. We do not see many jargons. Short and precise copy over each graph explains what is happening perfectly. Furthermore, this visualization is data-driven. Information about the data can be found in the explanation that follows the graphs. It aims to answer some questions and does a very good job of providing convincing arguments. The designer follows design principles which makes the end product (the visualization) consistent in terms of design. Visual Hierarchy is maintained. The reader is first drawn to the question which is clearly answered by the graphs that follow. Interactivity in the graph lines further enhances user experience. Captions and labels are clearly mentioned and do not interfere with the information that is being presented. Labeling is consistent across all graphs. Clever use of colors help differentiate between different factors.
 
 ***
 
@@ -54,7 +54,7 @@ _Sets up a clear design framework_ | 1
 
 **Overall Rating: 2**
 
-The story is missing from this visual. The graph as a standalone element is unable to tell a story to the reader. Overall, the visual is too generic in terms of certain labels while at the same time has elements that cannot be understood by a casual audience. e.g.: the legends explaining the different bars can be understood only by a specific group of individuals (scientists etc.). The aim of the graph is also not clear. Even the caption of the graph does not convey clear information. Is it over past 50 or 65 years? Moreover, The creators have not followed a clear design framework. The use of different colors for individual bars on the graph leaves the user confused. The name of the website at the end is unecessary. The word 'total' is repeated on the x-axis. The meaning of the legends is unclear or can be understood by a niche group of individuals.
+The story is missing from this visual. The graph as a standalone element is unable to tell a story to the reader. Overall, the visual is too generic in terms of certain labels while at the same time has elements that cannot be understood by a casual audience. e.g.: the legends explaining the different bars can be understood only by a specific group of individuals (scientists etc.). The aim of the graph is also not clear. Even the caption of the graph does not convey clear information. Is it over past 50 or 65 years? Moreover, The creators have not followed a clear design framework. The use of different colors for individual bars on the graph leaves the user confused. The name of the website at the end is unnecessary. The word 'total' is repeated on the x-axis. The meaning of the legends is unclear or can be understood by a niche group of individuals.
 
 ***
 
@@ -74,7 +74,7 @@ _Sets up a clear design framework_ | 5
 
 **Overall Rating: 4**
 
-This visual is able to tell a story effectively. It clearly explains the occurrance of different volcanic eruptions as well as the dip in temperature in that instance. Overall, the visual is tailor made for individuals interested in understanding the impact of volcanic eruptions on temperature. Hence, it caters to a specific audience. The aim of the visual is clear, though the heading is missing. Proper labeling and captions help in this case. The creators have followed a clear design framework. Consistent use of colors and proper labeling improve the readability of the graphic. The three axes are clearly defined.
+This visual is able to tell a story effectively. It clearly explains the occurrence of different volcanic eruptions as well as the dip in temperature in that instance. Overall, the visual is tailor-made for individuals interested in understanding the impact of volcanic eruptions on temperature. Hence, it caters to a specific audience. The aim of the visual is clear, though the heading is missing. Proper labeling and captions help in this case. The creators have followed a clear design framework. Consistent use of colors and proper labeling improve the readability of the graphic. The three axes are clearly defined.
 
 ***
 
@@ -113,6 +113,6 @@ _Sets up a clear design framework_ | 5
 **Overall Rating: 5**
 
 
-The visual is able to tell a story effectively of how temperatures have changed over the years from 1884 to 2018. The visual can be easily understood by all. The graphic relies on visual cues to drive the point. The aim of the graph is clear from its title. It uses interactivity in a clever and effortless way.  Colors are used to convey meaning clearly. The priciple 'less is more' applies perfectly for this visual. Labels clearly convey meaning too. 
+The visual is able to tell a story effectively of how temperatures have changed over the years from 1884 to 2018. The visual can be easily understood by all. The graphic relies on visual cues to drive the point. The aim of the graph is clear from its title. It uses interactivity in a clever and effortless way.  Colors are used to convey meaning clearly. The principle 'less is more' applies perfectly for this visual. Labels clearly convey meaning too. 
 
 ***

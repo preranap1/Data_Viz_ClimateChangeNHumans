@@ -116,3 +116,7 @@ _Sets up a clear design framework_ | 5
 The visual is able to tell a story effectively of how temperatures have changed over the years from 1884 to 2018. The visual can be easily understood by all. The graphic relies on visual cues to drive the point. The aim of the graph is clear from its title. It uses interactivity in a clever and effortless way.  Colors are used to convey meaning clearly. The principle 'less is more' applies perfectly to this visual. Labels clearly convey meaning too. 
 
 ***
+
+**Conclusion**
+
+In today's world, the sheer amount of data makes it difficult to interpret. Data visualizations play an important role in presenting data in a way that is interpretable and effective. It is the responsibility of the creator to ensure integrity of the data and the visualization is maintained. Great visualizations have the power to influence decisions, predict future trends and glean interesting relationships amongst categories/variables. Whiel it is important to maintain the aesthetic attributes of the graphic, data should always be the hero of the visualization. 

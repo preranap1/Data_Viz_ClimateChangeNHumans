@@ -1,4 +1,4 @@
-# Data_Viz_ClimateChangeNHumans
+# Data Visualization 
 
 The aim of the project is to understand and develop a framework to evaluate different visualizations.
 
